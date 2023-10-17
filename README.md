@@ -1,1 +1,1 @@
-# JP_Travel
+# This is an app I created during a university class.
